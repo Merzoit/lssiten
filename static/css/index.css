@@ -1,0 +1,151 @@
+.header {
+    background-color: aliceblue;
+    width: 100vw;
+    height: 50vh;
+    padding-top: 0px;
+}
+.txtc {
+    text-align: center;
+}
+.title {
+    text-align: center;
+    font-family: cursive;
+    height: 10vh;
+}
+.title2 {
+    text-align: center;
+    font-family: cursive;
+    height: 5vh;
+}
+.contentr {
+    width: 50vw;
+    float: right;
+    height: 40vh;
+}
+.contentl {
+    width: 50vw;
+    float: left;
+    height: 35vh;
+}
+.contenttxt {
+    font-family: cursive;
+    font-size: 20px;
+}
+ul {
+    margin-left: 30px; 
+    padding-left: 30px;
+}
+li {
+    list-style-type: none;
+}
+.floatr {
+    float: right;
+}
+.floatl {
+    float: left;
+}
+.contbox {
+    width: 15vw;
+}
+.contr {
+    width: 35vw;
+}
+.icons {
+    height: 150px;
+    width: 310px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+.txtsmall {
+    font-size: 12px;
+    font-family: cursive;
+    margin-top: 30px;
+
+}
+.carus {
+    float: left;
+    margin-top: 100px;
+    margin-left: 40px;
+    width: 400px;
+    height: 400px;
+    border: black 2px solid;
+}
+.rightcontb {
+    width: 50vw;
+    height: 600px;
+    float: right;
+}
+body {
+    background-color: rgb(255, 255, 255);
+}
+.contl {
+    height: 400px;
+}
+.carus2 {
+    float: right;
+    margin-top: 100px;
+    margin-right: 40px;
+    width: 400px;
+    height: 400px;
+    border: black 2px solid;
+}
+.infoblock {
+    width: 100vw;
+    height: 600px;
+}
+.leftcontb {
+    width: 50vw;
+    height: 600px;
+    float: right;
+}
+.infoblock2 {
+    width: 100vw;
+    height: 500px;
+    background-color: aliceblue;
+}
+.leftcont2 {
+    width: 50vw;
+    height: 500px;
+    float: left;
+
+}
+.formcont {
+    width: 50vw;
+    height: 300px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.formtxt {
+    font-family: cursive;
+}
+.rightcont2 {
+    width: 50vw;
+    height: 500px;
+    float: right;
+}
+.infoblock3 {
+    width: 100vw;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+}
+.prisepicblock {
+    width: 50vw;
+    float: right;
+    height: 500px;
+}
+.prisepic {
+    float: right;
+    margin-right: 150px;
+}
+.priseinfoblock {
+    width: 50vw;
+    float: left;
+    height: 500px;
+    padding-left: 150px;
+    padding-top: 150px;
+}
+.contentprise {
+    width: 100vw;
+    height: 200px;
+}
